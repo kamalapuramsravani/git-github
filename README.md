@@ -1,3 +1,2 @@
-# git-github
-first 
+# git-github 
 this is my first demo 
